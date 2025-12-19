@@ -1,5 +1,5 @@
 import { setProgress } from "../../slices/loadingBarSlice.js";
-import { apiConnector } from "../apiConnector";
+import { apiConnector } from "../apiconnector.js";
 import { profileEndpoints } from "../api.js";
 import { toast } from "react-hot-toast";
 //import {settingsEndpoints} from "../api"

@@ -84,7 +84,7 @@ The platform is designed with **scalability, role-based access, and real-world p
 
 ## 🧱 Project Architecture
 
-![alt text](<ChatGPT Image Dec 19, 2025, 09_56_34 AM.png>)
+![alt text](https://github.com/DishankM/Edtech_Platform/blob/main/StudyHelper%20Structure.png?raw=true)
 
 ---
 
